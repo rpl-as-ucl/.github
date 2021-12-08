@@ -1,6 +1,6 @@
-# [Robotic Systems Lab](https://rsl.ethz.ch/) - Legged Robotics @ ETH Zürich
-
+# [Robotic Systems Lab](https://rsl.ethz.ch/)
 <img src="https://rsl.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.1687500337.png" align="center">
+## Legged Robotics @ ETH Zürich
 
 **The Robotic Systems Lab investigates the development of machines and their intelligence to operate in rough and challenging environments.**
 
