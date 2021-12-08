@@ -1,0 +1,10 @@
+# [Robotic Systems Lab](https://rsl.ethz.ch/) - Legged Robotics @ ETH Zürich
+
+<img src="https://rsl.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.1687500337.png" align="center">
+
+**The Robotic Systems Lab investigates the development of machines and their intelligence to operate in rough and challenging environments.**
+
+With a large focus on robots with arms and legs, our research includes novel actuation methods for advanced dynamic interaction, innovative designs for increased system mobility and versatility, and new control and optimization algorithms for locomotion and manipulation. In search of clever solutions, we take inspiration from humans and animals with the goal to improve the skills and autonomy of complex robotic systems to make them applicable in various real-world scenarios.
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fleggedrobotics)
+
