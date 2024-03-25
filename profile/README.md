@@ -1,4 +1,4 @@
-# [Robotic Systems Lab](https://rsl.ethz.ch/)
+# [RPL](https://rsl.ethz.ch/)
 
 <img src="https://rsl.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.1687500337.png" align="center">
 
